@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "rescue"]
+	path = rescue
+	url = https://github.com/seasamgo/rescue
+	shallow = true
+	registered = true
