@@ -5,6 +5,3 @@
 [submodule "optband"]
 	path = optband
 	url = https://github.com/seasamgo/optband
-[submodule "rescue"]
-	path = rescue
-	url = https://github.com/seasamgo/rescue
